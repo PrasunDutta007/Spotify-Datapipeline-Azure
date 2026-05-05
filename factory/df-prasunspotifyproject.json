@@ -1,0 +1,15 @@
+{
+	"name": "df-prasunspotifyproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7839faf8-d18e-4c11-b112-d604959b73f6",
+		"tenantId": "8b82dfde-4a47-48a6-a046-5adcc89b3efc"
+	}
+}
