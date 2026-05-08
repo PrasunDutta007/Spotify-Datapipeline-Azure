@@ -208,7 +208,7 @@ df_user.writeStream.format("delta") \
 
 - **DimUser** — `upper()` on `user_name`; deduplication on `user_id`; drop `_rescued_data`
 - **DimTrack** — `durationFlag` bucket column (`low`/`medium`/`high` by `duration_sec`); `regexp_replace` to clean hyphens in track names; drop `_rescued_data`
-- **DimArtist / DimDate / FactStream** — structural cleanup, deduplication, `_rescued_data` dropped
+- **DimArtist / DimDate / FactStream** — drop `_rescued_data` 
 
 A shared `reusable` utility class (`utils/transformations.py`) centralises the `dropColumns` pattern across all notebooks, keeping transformation logic DRY.
 
