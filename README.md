@@ -321,6 +321,11 @@ The Jinja template places the first entry in `FROM` and all subsequent ones as `
 
 ---
 
-*Built by Prasun Dutta*
+<p align="center">
+  Built by Prasun Dutta · Assisted by <a href="https://code.claude.com/docs/en/overview">Claude Code</a>
+</p>
 
 ---
+<p align="center">
+  <sub>Animated icons by <a href="https://www.flaticon.com/free-animated-icons/stock-market" title="stock market animated icons">Stock market animated icons created by Freepik - Flaticon</a></sub>
+</p>
