@@ -1,4 +1,13 @@
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td><img src="img/headphones.gif" width="80" height="80"/></td>
+<td>
+
 # Spotify Data Pipeline (Azure)
+
+</td>
+</tr>
+</table>
 
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake%20Storage-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -327,5 +336,5 @@ The Jinja template places the first entry in `FROM` and all subsequent ones as `
 
 ---
 <p align="center">
-  <sub>Animated icons by <a href="https://www.flaticon.com/free-animated-icons/stock-market" title="stock market animated icons">Stock market animated icons created by Freepik - Flaticon</a></sub>
+  <sub>Animated icons by <a href="https://www.flaticon.com/free-animated-icons/headphones" title="headphones animated icons">Headphones animated icons created by Freepik - Flaticon</a></sub>
 </p>
